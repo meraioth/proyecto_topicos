@@ -1,0 +1,10 @@
+P-value cutoff	0.01
+Regulation links followed	Yes
+Bonferroni correction	19
+Annotated identifiers	2
+Unannotated identifiers	1
+Background size	7166
+Min p-value	0.0334211
+List size	3
+
+GOID	TERM	CORRECTED_PVALUE	UNCORRECTED_PVALUE	NUM_LIST_ANNOTATIONS	NUM_BG_ANNOTATIONS	ANNOTATED_GENES

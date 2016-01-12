@@ -1,0 +1,13 @@
+P-value cutoff	0.01
+Regulation links followed	Yes
+Bonferroni correction	32
+Annotated identifiers	6
+Background size	7166
+Min p-value	1.75222e-06
+List size	6
+
+GOID	TERM	CORRECTED_PVALUE	UNCORRECTED_PVALUE	NUM_LIST_ANNOTATIONS	NUM_BG_ANNOTATIONS	ANNOTATED_GENES
+GO:0071513	phosphopantothenoylcysteine decarboxylase complex	5.60709e-05	1.75222e-06	2	3	YKL088W, YKR072C
+GO:0005956	protein kinase CK2 complex	0.0001121	3.50313e-06	2	4	YIL035C, YOR061W
+GO:0034456	UTP-C complex	0.000280042	8.7513e-06	2	6	YIL035C, YOR061W
+GO:1990143	CoA-synthesizing protein complex	0.000280042	8.7513e-06	2	6	YKL088W, YKR072C

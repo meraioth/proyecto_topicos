@@ -1,0 +1,14 @@
+P-value cutoff	0.01
+Regulation links followed	Yes
+Bonferroni correction	18
+Annotated identifiers	3
+Background size	7166
+Min p-value	5.77997e-05
+List size	3
+
+GOID	TERM	CORRECTED_PVALUE	UNCORRECTED_PVALUE	NUM_LIST_ANNOTATIONS	NUM_BG_ANNOTATIONS	ANNOTATED_GENES
+GO:0030134	ER to Golgi transport vesicle	0.0010404	5.77997e-05	2	32	YAL007C, YGL200C
+GO:0030133	transport vesicle	0.00256521	0.000142512	2	50	YAL007C, YGL200C
+GO:0030135	coated vesicle	0.00676505	0.000375836	2	81	YAL007C, YGL200C
+GO:0016023	cytoplasmic membrane-bounded vesicle	0.00970705	0.000539281	2	97	YAL007C, YGL200C
+GO:0031988	membrane-bounded vesicle	0.00970705	0.000539281	2	97	YAL007C, YGL200C

@@ -1,0 +1,100 @@
+CoA-synthesizing protein complex
+ID_doc: 17	Recall: 0.333333
+
+DNA packaging complex
+ID_doc: 4	Recall: 0.25
+ID_doc: 6	Recall: 0.375
+ID_doc: 10	Recall: 0.125
+ID_doc: 13	Recall: 0.3125
+ID_doc: 16	Recall: 0.3125
+ID_doc: 19	Recall: 0.25
+ID_doc: 20	Recall: 0.125
+
+FACT complex
+ID_doc: 6	Recall: 1
+ID_doc: 16	Recall: 1
+
+INO80-type complex
+ID_doc: 15	Recall: 0.285714
+ID_doc: 20	Recall: 0.142857
+
+RNA polymerase III transcription factor complex
+ID_doc: 1	Recall: 0.222222
+ID_doc: 7	Recall: 0.222222
+ID_doc: 12	Recall: 0.222222
+ID_doc: 14	Recall: 0.666667
+
+Rpd3S complex
+ID_doc: 10	Recall: 0.4
+
+SWI/SNF superfamily-type complex
+ID_doc: 15	Recall: 0.113208
+ID_doc: 20	Recall: 0.0566038
+
+Sin3-type complex
+ID_doc: 10	Recall: 0.125
+
+Swr1 complex
+ID_doc: 15	Recall: 0.428571
+ID_doc: 20	Recall: 0.142857
+
+UTP-C complex
+ID_doc: 17	Recall: 0.333333
+
+alpha DNA polymerase:primase complex
+ID_doc: 16	Recall: 0.285714
+
+macromolecular complex
+ID_doc: 6	Recall: 0.00927357
+ID_doc: 13	Recall: 0.00566718
+ID_doc: 14	Recall: 0.00309119
+
+nuclear transcription factor complex
+ID_doc: 1	Recall: 0.0253165
+ID_doc: 14	Recall: 0.0759494
+
+phosphopantothenoylcysteine decarboxylase complex
+ID_doc: 17	Recall: 0.666667
+
+protein complex
+ID_doc: 6	Recall: 0.0125687
+ID_doc: 13	Recall: 0.00785546
+ID_doc: 14	Recall: 0.00471328
+ID_doc: 15	Recall: 0.00471328
+ID_doc: 16	Recall: 0.00706991
+ID_doc: 19	Recall: 0.00706991
+ID_doc: 20	Recall: 0.00471328
+
+protein kinase CK2 complex
+ID_doc: 17	Recall: 0.5
+
+protein-DNA complex
+ID_doc: 4	Recall: 0.0740741
+ID_doc: 6	Recall: 0.185185
+ID_doc: 10	Recall: 0.0555556
+ID_doc: 13	Recall: 0.12963
+ID_doc: 16	Recall: 0.12963
+ID_doc: 19	Recall: 0.0925926
+ID_doc: 20	Recall: 0.0555556
+
+replication fork protection complex
+ID_doc: 4	Recall: 0.16
+ID_doc: 6	Recall: 0.24
+ID_doc: 13	Recall: 0.16
+ID_doc: 16	Recall: 0.2
+ID_doc: 19	Recall: 0.16
+ID_doc: 20	Recall: 0.12
+
+transcription elongation factor complex
+ID_doc: 16	Recall: 0.2
+
+transcription factor TFIIIC complex
+ID_doc: 1	Recall: 0.333333
+ID_doc: 7	Recall: 0.333333
+ID_doc: 12	Recall: 0.333333
+ID_doc: 14	Recall: 1
+
+transcription factor complex
+ID_doc: 1	Recall: 0.0240964
+ID_doc: 14	Recall: 0.0722892
+

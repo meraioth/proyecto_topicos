@@ -1,0 +1,20 @@
+100451173:	mejor_doc_por_el_momento_dentro_de_cluster: 1    recall: 0.333333
+100451173:	mejor_doc_por_el_momento_dentro_de_cluster: 14    recall: 1
+119462093:	mejor_doc_por_el_momento_dentro_de_cluster: 10    recall: 0.4
+189849896:	mejor_doc_por_el_momento_dentro_de_cluster: 6    recall: 1
+189849896:	mejor_doc_por_el_momento_dentro_de_cluster: 6    recall: 1
+227751016:	mejor_doc_por_el_momento_dentro_de_cluster: 4    recall: 0.25
+227751016:	mejor_doc_por_el_momento_dentro_de_cluster: 16    recall: 1
+227751016:	mejor_doc_por_el_momento_dentro_de_cluster: 16    recall: 1
+227751016:	mejor_doc_por_el_momento_dentro_de_cluster: 16    recall: 1
+541601867:	mejor_doc_por_el_momento_dentro_de_cluster: 17    recall: 0.666667
+664031534:	mejor_doc_por_el_momento_dentro_de_cluster: 15    recall: 0.428571
+1194440921:	mejor_doc_por_el_momento_dentro_de_cluster: 7    recall: 0.333333
+1194440921:	mejor_doc_por_el_momento_dentro_de_cluster: 7    recall: 0.333333
+100451173           : Documento:14   Recall:1
+119462093           : Documento:10   Recall:0.4
+189849896           : Documento:6   Recall:1
+227751016           : Documento:16   Recall:1
+541601867           : Documento:17   Recall:0.666667
+664031534           : Documento:15   Recall:0.428571
+1194440921          : Documento:7   Recall:0.333333

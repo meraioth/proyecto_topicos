@@ -1,0 +1,11 @@
+P-value cutoff	0.01
+Regulation links followed	Yes
+Bonferroni correction	31
+Annotated identifiers	3
+Background size	7166
+Min p-value	1.75222e-06
+List size	3
+
+GOID	TERM	CORRECTED_PVALUE	UNCORRECTED_PVALUE	NUM_LIST_ANNOTATIONS	NUM_BG_ANNOTATIONS	ANNOTATED_GENES
+GO:0000127	transcription factor TFIIIC complex	5.43187e-05	1.75222e-06	2	6	YAL001C, YDR362C
+GO:0090576	RNA polymerase III transcription factor complex	0.000130329	4.20415e-06	2	9	YAL001C, YDR362C
